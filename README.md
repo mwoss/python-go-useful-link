@@ -7,6 +7,9 @@
 * [Interfaces, protocols and ABCs in Python](http://masnun.rocks/2017/04/15/interfaces-in-python-protocols-and-abcs/) _[Python]_
 * [How to write spelling corrector in Python](http://norvig.com/spell-correct.html) _[Python]_
 * [Complete Machine Learning Project Walk-Through](https://morioh.com/p/b56ae6b04ffc/a-complete-machine-learning-project-walk-through-in-python) _[Python]_
+
+#### Cool projects (smaller and bigger):
+* [Visualize your own google maps data](https://kanoki.org/2019/01/20/thank-you-google-for-sharing-my-data/) _[Python]_
 #### Blogs:
 
 #### Conferences:
