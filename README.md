@@ -22,6 +22,7 @@
 * [AsyncIO tutorial from pymotw.com](https://pymotw.com/3/asyncio/) _[Python]_
 * [Flask Mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) _[Python]_
 * [NodeJs crush course](https://www.reddit.com/r/webdev/comments/apiqdg/a_nodejs_crash_course_in_90_minutes/) _[Javascript]_
+* [Introduction to CSS Grid](https://dev.to/karaluton/introduction-to-css-grid-what-you-should-know-52np) _[CSS]_
 
 #### Cheatsheets:
 * [Comprehensive Python Cheatsheet by Jure Šorn](https://gto76.github.io/python-cheatsheet/) _[Python]_
