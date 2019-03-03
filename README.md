@@ -6,6 +6,7 @@
 * [Immutability in Python by 1st1](https://threader.app/thread/1090325242432630784) _[Python]_
 * [Interfaces, protocols and ABCs in Python](http://masnun.rocks/2017/04/15/interfaces-in-python-protocols-and-abcs/) _[Python]_
 * [How to write spelling corrector in Python](http://norvig.com/spell-correct.html) _[Python]_
+* [Asynchronous programming in Python](https://luminousmen.com/post/asynchronous-programming-python3.5) _[Python]_
 * [Complete Machine Learning Project Walk-Through](https://morioh.com/p/b56ae6b04ffc/a-complete-machine-learning-project-walk-through-in-python) _[Python]_
 
 #### Cool projects (smaller and bigger):
