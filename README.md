@@ -10,13 +10,22 @@
 * [Complete Machine Learning Project Walk-Through](https://morioh.com/p/b56ae6b04ffc/a-complete-machine-learning-project-walk-through-in-python) _[Python]_
 * [How pip install works](https://pydist.com/blog/pip-install) _[Python]_
 * [Gentle introduction to multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading) _[Python]_
+* [Python for reverse engineering](https://medium.com/sector443/python-for-reverse-engineering-1-elf-binaries-e31e92c33732) _[Python]_
+* [Books that Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586) _[All]_
 
 #### Cool projects (smaller and bigger):
 * [Visualize your own google maps data](https://kanoki.org/2019/01/20/thank-you-google-for-sharing-my-data/) _[Python]_
-#### Blogs:
+
+#### Blogs and Pythonic websites:
+* [Real Pytohn](https://realpython.com) _[Python]_
 
 #### Conferences:
 * [Writing faster Python - Sebastian Witowski](https://www.youtube.com/watch?v=YjHsOrOOSuI) _[Python]_
+
+#### Videos:
+* [10 Python Tips and Tricks For Writing Better Code](https://www.youtube.com/watch?v=C-gEQdGVXbk) _[Python]_
+* [Short Go course](https://www.youtube.com/watch?v=SqrbIlUwR0U&t=1s) _[Go]_
+
 
 #### Useful libraries:
 * [List of packages for writing better code](https://www.reddit.com/r/Python/comments/ao52qn/python_packages_for_writing_better_code/) _[Python]_
