@@ -11,10 +11,15 @@
 * [How pip install works](https://pydist.com/blog/pip-install) _[Python]_
 * [Gentle introduction to multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading) _[Python]_
 * [Python for reverse engineering](https://medium.com/sector443/python-for-reverse-engineering-1-elf-binaries-e31e92c33732) _[Python]_
+* [Go advanced concurrency patterns](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/) _[Go]_
+* [High performance Go workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html) _[Go]_
+* [What the funtor?](https://www.matthewgerstman.com/tech/what-the-functor/) _[All]_
 * [Books that Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586) _[All]_
 
 #### Cool projects (smaller and bigger):
 * [Visualize your own google maps data](https://kanoki.org/2019/01/20/thank-you-google-for-sharing-my-data/) _[Python]_
+* [AWS Java samples](https://github.com/wazcov/AWS-Java-Samples) _[Java]_
+* [Generate serializers for JSONs](https://app.quicktype.io/) _[All]_
 
 #### Blogs and Pythonic websites:
 * [Real Pytohn](https://realpython.com) _[Python]_
@@ -25,10 +30,12 @@
 #### Videos:
 * [10 Python Tips and Tricks For Writing Better Code](https://www.youtube.com/watch?v=C-gEQdGVXbk) _[Python]_
 * [Short Go course](https://www.youtube.com/watch?v=SqrbIlUwR0U&t=1s) _[Go]_
+* [Dan Abramov teaches React Hooks](https://www.reddit.com/r/javascript/comments/b8etnx/dan_abramov_teaches_me_react_hooks/) _[Javascript]_
 
 
 #### Useful libraries:
 * [List of packages for writing better code](https://www.reddit.com/r/Python/comments/ao52qn/python_packages_for_writing_better_code/) _[Python]_
+* [Asynchronous GraphQL Server implementation with Python](https://github.com/dailymotion/tartiflette) _[Python]_
 
 #### Tutorials:
 * [AsyncIO in Python - tutorial by Brad Solomon ](https://realpython.com/async-io-python/#async-io-is-not-easy) _[Python]_
