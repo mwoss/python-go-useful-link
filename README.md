@@ -11,14 +11,20 @@
 * [How pip install works](https://pydist.com/blog/pip-install) _[Python]_
 * [Gentle introduction to multithreading](https://www.internalpointers.com/post/gentle-introduction-multithreading) _[Python]_
 * [Python for reverse engineering](https://medium.com/sector443/python-for-reverse-engineering-1-elf-binaries-e31e92c33732) _[Python]_
+* [Contributing to classiness (in Django)](https://www.b-list.org/weblog/2019/mar/04/class/) _[Python]_
+* [What is dependency inversion and why does it matter?](http://seddonym.me/2019/04/15/why-dependency-inversion/) _[Python]_
 * [Go advanced concurrency patterns](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/) _[Go]_
 * [High performance Go workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html) _[Go]_
-* [What the funtor?](https://www.matthewgerstman.com/tech/what-the-functor/) _[All]_
+* [An overview of Golang tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling) _[Go]_
+* [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/) _[Go]_
+* [What the functor?](https://www.matthewgerstman.com/tech/what-the-functor/) _[All]_
 * [Books that Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586) _[All]_
 
 #### Cool projects (smaller and bigger):
 * [Visualize your own google maps data](https://kanoki.org/2019/01/20/thank-you-google-for-sharing-my-data/) _[Python]_
 * [AWS Java samples](https://github.com/wazcov/AWS-Java-Samples) _[Java]_
+* [A Socket.io tutorial that ISN'T a chat app (with React.js)](https://dev.to/captainpandaz/a-socket-io-tutorial-that-isn-t-a-chat-app-with-react-js-58jh) _[Javascript]_
+* [Liveness detection with OpenCV](https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/) _[Deep learning]_
 * [Generate serializers for JSONs](https://app.quicktype.io/) _[All]_
 
 #### Blogs and Pythonic websites:
@@ -26,6 +32,7 @@
 
 #### Conferences:
 * [Writing faster Python - Sebastian Witowski](https://www.youtube.com/watch?v=YjHsOrOOSuI) _[Python]_
+* [Collection of code talks around the world](https://codetalks.tv/) _[All]_
 
 #### Videos:
 * [10 Python Tips and Tricks For Writing Better Code](https://www.youtube.com/watch?v=C-gEQdGVXbk) _[Python]_
