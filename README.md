@@ -17,6 +17,7 @@
 * [High performance Go workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html) _[Go]_
 * [An overview of Golang tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling) _[Go]_
 * [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/) _[Go]_
+* [Error handling in Go](https://www.innoq.com/en/blog/golang-errors-monads/) _[Go]_
 * [What the functor?](https://www.matthewgerstman.com/tech/what-the-functor/) _[All]_
 * [Books that Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586) _[All]_
 
@@ -32,6 +33,7 @@
 
 #### Conferences:
 * [Writing faster Python - Sebastian Witowski](https://www.youtube.com/watch?v=YjHsOrOOSuI) _[Python]_
+* [Python Generators](https://www.youtube.com/watch?v=XEn_99daJro) _[Python]_
 * [Collection of code talks around the world](https://codetalks.tv/) _[All]_
 
 #### Videos:
