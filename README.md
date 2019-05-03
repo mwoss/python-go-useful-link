@@ -1,8 +1,8 @@
 ## Useful links
 #### List of useful links to articles, conferences, blogs, tutorials etc. (Mainly Python stuff)
+---
 
-
-#### Articles:
+### Articles:
 * [Immutability in Python by 1st1](https://threader.app/thread/1090325242432630784) _[Python]_
 * [Interfaces, protocols and ABCs in Python](http://masnun.rocks/2017/04/15/interfaces-in-python-protocols-and-abcs/) _[Python]_
 * [How to write spelling corrector in Python](http://norvig.com/spell-correct.html) _[Python]_
@@ -21,32 +21,35 @@
 * [What the functor?](https://www.matthewgerstman.com/tech/what-the-functor/) _[All]_
 * [Books that Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586) _[All]_
 
-#### Cool projects (smaller and bigger):
+### Cool projects (smaller and bigger):
 * [Visualize your own google maps data](https://kanoki.org/2019/01/20/thank-you-google-for-sharing-my-data/) _[Python]_
 * [AWS Java samples](https://github.com/wazcov/AWS-Java-Samples) _[Java]_
 * [A Socket.io tutorial that ISN'T a chat app (with React.js)](https://dev.to/captainpandaz/a-socket-io-tutorial-that-isn-t-a-chat-app-with-react-js-58jh) _[Javascript]_
 * [Liveness detection with OpenCV](https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/) _[Deep learning]_
 * [Generate serializers for JSONs](https://app.quicktype.io/) _[All]_
 
-#### Blogs and Pythonic websites:
+### Blogs and Pythonic/Go websites and essentials:
 * [Real Pytohn](https://realpython.com) _[Python]_
+* [Set of Go articles and tutorials](https://github.com/jakescript/go-bible) _[Go]_
 
-#### Conferences:
+### Conferences:
 * [Writing faster Python - Sebastian Witowski](https://www.youtube.com/watch?v=YjHsOrOOSuI) _[Python]_
-* [Python Generators](https://www.youtube.com/watch?v=XEn_99daJro) _[Python]_
+* [What Does It Take To Be An Expert At Python? - James Powell](https://www.youtube.com/watch?time_continue=2&v=7lmCu8wz8ro) _[Python]_
+* [Python Generators - James Powel](https://www.youtube.com/watch?v=XEn_99daJro) _[Python]_
+* [Pycon 2019 channel](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ) _[Python]_
 * [Collection of code talks around the world](https://codetalks.tv/) _[All]_
 
-#### Videos:
+### Videos:
 * [10 Python Tips and Tricks For Writing Better Code](https://www.youtube.com/watch?v=C-gEQdGVXbk) _[Python]_
 * [Short Go course](https://www.youtube.com/watch?v=SqrbIlUwR0U&t=1s) _[Go]_
 * [Dan Abramov teaches React Hooks](https://www.reddit.com/r/javascript/comments/b8etnx/dan_abramov_teaches_me_react_hooks/) _[Javascript]_
 
 
-#### Useful libraries:
+### Useful libraries:
 * [List of packages for writing better code](https://www.reddit.com/r/Python/comments/ao52qn/python_packages_for_writing_better_code/) _[Python]_
 * [Asynchronous GraphQL Server implementation with Python](https://github.com/dailymotion/tartiflette) _[Python]_
 
-#### Tutorials:
+### Tutorials:
 * [AsyncIO in Python - tutorial by Brad Solomon ](https://realpython.com/async-io-python/#async-io-is-not-easy) _[Python]_
 * [AsyncIO tutorial from pymotw.com](https://pymotw.com/3/asyncio/) _[Python]_
 * [Flask Mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) _[Python]_
@@ -55,5 +58,5 @@
 * [NodeJs crush course](https://www.reddit.com/r/webdev/comments/apiqdg/a_nodejs_crash_course_in_90_minutes/) _[Javascript]_
 * [Introduction to CSS Grid](https://dev.to/karaluton/introduction-to-css-grid-what-you-should-know-52np) _[CSS]_
 
-#### Cheatsheets:
+### Cheatsheets:
 * [Comprehensive Python Cheatsheet by Jure Šorn](https://gto76.github.io/python-cheatsheet/) _[Python]_
