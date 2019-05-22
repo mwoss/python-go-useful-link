@@ -13,6 +13,9 @@
 * [Python for reverse engineering](https://medium.com/sector443/python-for-reverse-engineering-1-elf-binaries-e31e92c33732) _[Python]_
 * [Contributing to classiness (in Django)](https://www.b-list.org/weblog/2019/mar/04/class/) _[Python]_
 * [What is dependency inversion and why does it matter?](http://seddonym.me/2019/04/15/why-dependency-inversion/) _[Python]_
+* [Python at Netflix](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e) _[Python]_
+* [Python memory management](https://realpython.com/python-memory-management/) _[Python]_
+* [Flask best practices by AJ Pryor](http://alanpryorjr.com/2019-05-20-flask-api-example/) _[Python]_
 * [Go advanced concurrency patterns](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/) _[Go]_
 * [High performance Go workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html) _[Go]_
 * [An overview of Golang tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling) _[Go]_
