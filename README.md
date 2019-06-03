@@ -16,6 +16,8 @@
 * [Python at Netflix](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e) _[Python]_
 * [Python memory management](https://realpython.com/python-memory-management/) _[Python]_
 * [Flask best practices by AJ Pryor](http://alanpryorjr.com/2019-05-20-flask-api-example/) _[Python]_
+* [Overview of runtime audits in PEP 578](https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html) _[Python]_
+* [Understanding The pandas library](https://medium.com/analytics-and-data/become-a-pro-at-pandas-pythons-data-manipulation-library-264351b586b1?sk=cfcd8713cbdae2e48277acf8084c5e13) _[Python]_
 * [Go advanced concurrency patterns](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/) _[Go]_
 * [High performance Go workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html) _[Go]_
 * [An overview of Golang tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling) _[Go]_
@@ -57,6 +59,8 @@
 * [AsyncIO tutorial from pymotw.com](https://pymotw.com/3/asyncio/) _[Python]_
 * [Flask Mega tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) _[Python]_
 * [Set up Python project - Tests/CI](https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13?sk=df8634c99b3e5c6d9fa96b51aba1a4cd) _[Python]_
+* [Create and Publish a Python Package with Poetry](https://johnfraney.ca/posts/2019/05/28/create-publish-python-package-poetry/) _[Python]_
+* [How to Submit a Package to PyPI](https://blog.easyaspy.org/post/14/2019-05-05-how-to-submit-a-package-to-pypi) _[Python]_
 * [17-part video series on learning regex in Python](https://www.reddit.com/r/Python/comments/aw18cc/i_just_published_a_17part_video_series_on/) _[Python]_
 * [NodeJs crush course](https://www.reddit.com/r/webdev/comments/apiqdg/a_nodejs_crash_course_in_90_minutes/) _[Javascript]_
 * [Introduction to CSS Grid](https://dev.to/karaluton/introduction-to-css-grid-what-you-should-know-52np) _[CSS]_
