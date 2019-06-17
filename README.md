@@ -24,6 +24,7 @@
 * [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/) _[Go]_
 * [Error handling in Go](https://www.innoq.com/en/blog/golang-errors-monads/) _[Go]_
 * [Building a GO Web API](https://rshipp.com/go-web-api/) _[Go]_
+* [Short tutorial for Golang REST API with Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE) _[Go]_
 * [What the functor?](https://www.matthewgerstman.com/tech/what-the-functor/) _[All]_
 * [Books that Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586) _[All]_
 
