@@ -19,14 +19,18 @@
 * [Overview of runtime audits in PEP 578](https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html) _[Python]_
 * [Understanding The pandas library](https://medium.com/analytics-and-data/become-a-pro-at-pandas-pythons-data-manipulation-library-264351b586b1?sk=cfcd8713cbdae2e48277acf8084c5e13) _[Python]_
 * [Go advanced concurrency patterns](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/) _[Go]_
+* [Fast serialization in DRF](https://hakibenita.com/django-rest-framework-slow) _[Python]_
 * [High performance Go workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html) _[Go]_
 * [An overview of Golang tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling) _[Go]_
 * [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/) _[Go]_
 * [Error handling in Go](https://www.innoq.com/en/blog/golang-errors-monads/) _[Go]_
 * [Building a GO Web API](https://rshipp.com/go-web-api/) _[Go]_
 * [Short tutorial for Golang REST API with Mux](https://www.youtube.com/watch?v=SonwZ6MF5BE) _[Go]_
+* [Clean Go code](https://github.com/Pungyeon/clean-go-article#Test-Driven-Development) _[Go]_
+* [Why Go fuzzing?](https://docs.google.com/document/d/1N-12_6YBPpF9o4_Zys_E_ZQndmD06wQVAM_0y9nZUIE/edit#heading=h.1nav8fbhheli) _[Go]_
 * [What the functor?](https://www.matthewgerstman.com/tech/what-the-functor/) _[All]_
 * [Books that Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586) _[All]_
+
 
 ### Cool projects (smaller and bigger):
 * [Visualize your own google maps data](https://kanoki.org/2019/01/20/thank-you-google-for-sharing-my-data/) _[Python]_
@@ -44,6 +48,7 @@
 * [What Does It Take To Be An Expert At Python? - James Powell](https://www.youtube.com/watch?time_continue=2&v=7lmCu8wz8ro) _[Python]_
 * [Python Generators - James Powel](https://www.youtube.com/watch?v=XEn_99daJro) _[Python]_
 * [Pycon 2019 channel](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ) _[Python]_
+* [How Go scheduler works?](https://www.youtube.com/watch?v=YHRO5WQGh0k) _[Go]_
 * [Collection of code talks around the world](https://codetalks.tv/) _[All]_
 
 ### Videos:
