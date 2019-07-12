@@ -18,6 +18,8 @@
 * [Flask best practices by AJ Pryor](http://alanpryorjr.com/2019-05-20-flask-api-example/) _[Python]_
 * [Overview of runtime audits in PEP 578](https://tirkarthi.github.io/programming/2019/05/23/pep-578-overview.html) _[Python]_
 * [Understanding The pandas library](https://medium.com/analytics-and-data/become-a-pro-at-pandas-pythons-data-manipulation-library-264351b586b1?sk=cfcd8713cbdae2e48277acf8084c5e13) _[Python]_
+* [Faster Docker builds with pipenv, poetry, or pip-tools](https://pythonspeed.com/articles/pipenv-docker/) _[Python]_
+* [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b) _[Python]_
 * [Go advanced concurrency patterns](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/) _[Go]_
 * [Fast serialization in DRF](https://hakibenita.com/django-rest-framework-slow) _[Python]_
 * [High performance Go workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html) _[Go]_
@@ -69,8 +71,10 @@
 * [Create and Publish a Python Package with Poetry](https://johnfraney.ca/posts/2019/05/28/create-publish-python-package-poetry/) _[Python]_
 * [How to Submit a Package to PyPI](https://blog.easyaspy.org/post/14/2019-05-05-how-to-submit-a-package-to-pypi) _[Python]_
 * [17-part video series on learning regex in Python](https://www.reddit.com/r/Python/comments/aw18cc/i_just_published_a_17part_video_series_on/) _[Python]_
+* [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world) _[Go]_
 * [NodeJs crush course](https://www.reddit.com/r/webdev/comments/apiqdg/a_nodejs_crash_course_in_90_minutes/) _[Javascript]_
 * [Introduction to CSS Grid](https://dev.to/karaluton/introduction-to-css-grid-what-you-should-know-52np) _[CSS]_
 
 ### Cheatsheets:
 * [Comprehensive Python Cheatsheet by Jure Šorn](https://gto76.github.io/python-cheatsheet/) _[Python]_
+
