@@ -72,6 +72,8 @@
 * [How to Submit a Package to PyPI](https://blog.easyaspy.org/post/14/2019-05-05-how-to-submit-a-package-to-pypi) _[Python]_
 * [17-part video series on learning regex in Python](https://www.reddit.com/r/Python/comments/aw18cc/i_just_published_a_17part_video_series_on/) _[Python]_
 * [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world) _[Go]_
+* [Bunch of useful learning articles gethered by Senior Go devs](https://barbra.io/collection/36cc5e8a-c094-47da-b8f7-8e01a2dc12aa?section-id=338cd5b3-4989-4471-8feb-389ca537770e)
+* [Go pointers in 800 lines](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
 * [NodeJs crush course](https://www.reddit.com/r/webdev/comments/apiqdg/a_nodejs_crash_course_in_90_minutes/) _[Javascript]_
 * [Introduction to CSS Grid](https://dev.to/karaluton/introduction-to-css-grid-what-you-should-know-52np) _[CSS]_
 
