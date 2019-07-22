@@ -56,6 +56,7 @@
 ### Videos:
 * [10 Python Tips and Tricks For Writing Better Code](https://www.youtube.com/watch?v=C-gEQdGVXbk) _[Python]_
 * [Short Go course](https://www.youtube.com/watch?v=SqrbIlUwR0U&t=1s) _[Go]_
+* [Go tooling in action - useful go tools](https://www.youtube.com/watch?v=uBjoTxosSys) _[Go]_
 * [Dan Abramov teaches React Hooks](https://www.reddit.com/r/javascript/comments/b8etnx/dan_abramov_teaches_me_react_hooks/) _[Javascript]_
 
 
