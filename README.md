@@ -32,6 +32,7 @@
 * [Why Go fuzzing?](https://docs.google.com/document/d/1N-12_6YBPpF9o4_Zys_E_ZQndmD06wQVAM_0y9nZUIE/edit#heading=h.1nav8fbhheli) _[Go]_
 * [What the functor?](https://www.matthewgerstman.com/tech/what-the-functor/) _[All]_
 * [Books that Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586) _[All]_
+* [A guide to Web Scraping without getting blocked](https://www.scrapingninja.co/blog/web-scraping-without-getting-blocked) _[All]_
 
 
 ### Cool projects (smaller and bigger):
@@ -55,6 +56,7 @@
 
 ### Videos:
 * [10 Python Tips and Tricks For Writing Better Code](https://www.youtube.com/watch?v=C-gEQdGVXbk) _[Python]_
+* [Async in production](https://www.youtube.com/watch?v=pIXiChn5j4E|) _[Python]_
 * [Short Go course](https://www.youtube.com/watch?v=SqrbIlUwR0U&t=1s) _[Go]_
 * [Go tooling in action - useful go tools](https://www.youtube.com/watch?v=uBjoTxosSys) _[Go]_
 * [Dan Abramov teaches React Hooks](https://www.reddit.com/r/javascript/comments/b8etnx/dan_abramov_teaches_me_react_hooks/) _[Javascript]_
