@@ -42,6 +42,7 @@
 * [A Socket.io tutorial that ISN'T a chat app (with React.js)](https://dev.to/captainpandaz/a-socket-io-tutorial-that-isn-t-a-chat-app-with-react-js-58jh) _[Javascript]_
 * [Liveness detection with OpenCV](https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/) _[Deep learning]_
 * [Generate serializers for JSONs](https://app.quicktype.io/) _[All]_
+* [System design principals](https://github.com/donnemartin/system-design-primer) _[All]_
 
 ### Blogs and Pythonic/Go websites and essentials:
 * [Real Pytohn](https://realpython.com) _[Python]_
@@ -75,6 +76,8 @@
 * [Create and Publish a Python Package with Poetry](https://johnfraney.ca/posts/2019/05/28/create-publish-python-package-poetry/) _[Python]_
 * [How to Submit a Package to PyPI](https://blog.easyaspy.org/post/14/2019-05-05-how-to-submit-a-package-to-pypi) _[Python]_
 * [17-part video series on learning regex in Python](https://www.reddit.com/r/Python/comments/aw18cc/i_just_published_a_17part_video_series_on/) _[Python]_
+* [Text Mining on the 2019 Mexican Government Report](https://github.com/PhantomInsights/mexican-government-report) _[Python]_
+* [Build your own async framework](https://github.com/hzlmn/diy-async-web-framework) _[Python]_
 * [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world) _[Go]_
 * [Bunch of useful learning articles gethered by Senior Go devs](https://barbra.io/collection/36cc5e8a-c094-47da-b8f7-8e01a2dc12aa?section-id=338cd5b3-4989-4471-8feb-389ca537770e) _[Go]_
 * [Go pointers in 800 lines](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back) _[Go]_
