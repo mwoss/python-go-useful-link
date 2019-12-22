@@ -23,6 +23,7 @@
 * [Short Introduction to Python Web Frameworks](https://www.reddit.com/r/Python/comments/cr3l7z/a_beginners_introduction_to_python_web_frameworks/) _[Python]_
 * [Go advanced concurrency patterns](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/) _[Go]_
 * [Fast serialization in DRF](https://hakibenita.com/django-rest-framework-slow) _[Python]_
+* [Python tips and trick, you haven't already seen](https://martinheinz.dev/blog/1) _[Python]_
 * [High performance Go workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html) _[Go]_
 * [An overview of Golang tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling) _[Go]_
 * [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/) _[Go]_
@@ -32,6 +33,7 @@
 * [Clean Go code](https://github.com/Pungyeon/clean-go-article#Test-Driven-Development) _[Go]_
 * [Why Go fuzzing?](https://docs.google.com/document/d/1N-12_6YBPpF9o4_Zys_E_ZQndmD06wQVAM_0y9nZUIE/edit#heading=h.1nav8fbhheli) _[Go]_
 * [Traps, gotchas and common mistakes for new Golang devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) _[Go]_
+* [Parsing 18 billion JSON lines with Go](https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2) _[Go]_
 * [What the functor?](https://www.matthewgerstman.com/tech/what-the-functor/) _[All]_
 * [Books that Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586) _[All]_
 * [A guide to Web Scraping without getting blocked](https://www.scrapingninja.co/blog/web-scraping-without-getting-blocked) _[All]_
@@ -40,6 +42,7 @@
 ### Cool projects (smaller and bigger):
 * [Visualize your own google maps data](https://kanoki.org/2019/01/20/thank-you-google-for-sharing-my-data/) _[Python]_
 * [Ultimate Go study guide](https://github.com/hoanhan101/ultimate-go) _[Go]_
+* [Create a simple load balancer with Go](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/) _[Go]_
 * [AWS Java samples](https://github.com/wazcov/AWS-Java-Samples) _[Java]_
 * [A Socket.io tutorial that ISN'T a chat app (with React.js)](https://dev.to/captainpandaz/a-socket-io-tutorial-that-isn-t-a-chat-app-with-react-js-58jh) _[Javascript]_
 * [Liveness detection with OpenCV](https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/) _[Deep learning]_
@@ -89,6 +92,7 @@
 * [NodeJs crush course](https://www.reddit.com/r/webdev/comments/apiqdg/a_nodejs_crash_course_in_90_minutes/) _[Javascript]_
 * [Introduction to CSS Grid](https://dev.to/karaluton/introduction-to-css-grid-what-you-should-know-52np) _[CSS]_
 * [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc) _[Security]_
+* [How to reduce AWS cost](https://gameanalytics.com/blog/reduce-costs-https-api-aws.html) _[Cloud]_
 
 ### Cheatsheets:
 * [Comprehensive Python Cheatsheet by Jure Šorn](https://gto76.github.io/python-cheatsheet/) _[Python]_
