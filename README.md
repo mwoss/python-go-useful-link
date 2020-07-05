@@ -21,9 +21,13 @@
 * [Faster Docker builds with pipenv, poetry, or pip-tools](https://pythonspeed.com/articles/pipenv-docker/) _[Python]_
 * [10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b) _[Python]_
 * [Short Introduction to Python Web Frameworks](https://www.reddit.com/r/Python/comments/cr3l7z/a_beginners_introduction_to_python_web_frameworks/) _[Python]_
+* [3 tricks of Python’s lru_cache](https://medium.com/@cloud_shaman/3-tricks-python-of-lru-cache-ee7c8244c2c1) _[Python]_
+* [Master SQLAlchemy relationships in a performance friendly way](https://blog.theodo.com/2020/03/sqlalchemy-relationship-performance/) _[Python]_
 * [Go advanced concurrency patterns](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/) _[Go]_
 * [Fast serialization in DRF](https://hakibenita.com/django-rest-framework-slow) _[Python]_
 * [Python tips and trick, you haven't already seen](https://martinheinz.dev/blog/1) _[Python]_
+* [Types at the edges in Python](https://blog.meadsteve.dev/programming/2020/02/10/types-at-the-edges-in-python/) _[Python]_
+* [Python 2020: modern best practices](https://spiegelmock.com/2020/01/04/python-2020-modern-best-practices/)
 * [High performance Go workshop](https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html) _[Go]_
 * [An overview of Golang tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling) _[Go]_
 * [Slow down your code with goroutines](https://appliedgo.net/concurrencyslower/) _[Go]_
@@ -34,6 +38,8 @@
 * [Why Go fuzzing?](https://docs.google.com/document/d/1N-12_6YBPpF9o4_Zys_E_ZQndmD06wQVAM_0y9nZUIE/edit#heading=h.1nav8fbhheli) _[Go]_
 * [Traps, gotchas and common mistakes for new Golang devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) _[Go]_
 * [Parsing 18 billion JSON lines with Go](https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2) _[Go]_
+* [Go: How Are Loops Translated to Assembly?](https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b3) _[Go]_
+* [Notes on structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/) _[Go]_
 * [What the functor?](https://www.matthewgerstman.com/tech/what-the-functor/) _[All]_
 * [Books that Developers should read in 2019](https://medium.freecodecamp.org/9-books-for-junior-developers-in-2019-e41fc7ecc586) _[All]_
 * [A guide to Web Scraping without getting blocked](https://www.scrapingninja.co/blog/web-scraping-without-getting-blocked) _[All]_
@@ -41,16 +47,20 @@
 
 ### Cool projects (smaller and bigger):
 * [Visualize your own google maps data](https://kanoki.org/2019/01/20/thank-you-google-for-sharing-my-data/) _[Python]_
+* [Web Scraping using Selenium and Python](https://www.scrapingbee.com/blog/selenium-python/) _[Python]_
 * [Ultimate Go study guide](https://github.com/hoanhan101/ultimate-go) _[Go]_
 * [Create a simple load balancer with Go](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/) _[Go]_
+* [Database basics: writing a SQL database from scratch in Go](http://notes.eatonphil.com/database-basics.html) _[Go]_
 * [AWS Java samples](https://github.com/wazcov/AWS-Java-Samples) _[Java]_
 * [A Socket.io tutorial that ISN'T a chat app (with React.js)](https://dev.to/captainpandaz/a-socket-io-tutorial-that-isn-t-a-chat-app-with-react-js-58jh) _[Javascript]_
 * [Liveness detection with OpenCV](https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/) _[Deep learning]_
 * [Generate serializers for JSONs](https://app.quicktype.io/) _[All]_
 * [System design principals](https://github.com/donnemartin/system-design-primer) _[All]_
+* [Websites for creative backgrounds](https://wweb.dev/resources/creative-backgrounds) _[All]_
 
 ### Blogs and Pythonic/Go websites and essentials:
 * [Real Pytohn](https://realpython.com) _[Python]_
+* [Martin Heinz blog](https://martinheinz.dev/) _[Python]_
 * [Set of Go articles and tutorials](https://github.com/jakescript/go-bible) _[Go]_
 
 ### Conferences:
@@ -64,7 +74,10 @@
 ### Videos:
 * [10 Python Tips and Tricks For Writing Better Code](https://www.youtube.com/watch?v=C-gEQdGVXbk) _[Python]_
 * [Async in production](https://www.youtube.com/watch?v=pIXiChn5j4E|) _[Python]_
+* [James Powell: So you want to be a Python expert? | PyData Seattle 2017](https://www.youtube.com/watch?v=cKPlPJyQrt4) _[Python]_
 * [Understanding the Python GIL](https://www.youtube.com/watch?v=Obt-vMVdM8s) _[Python]_
+* [Raymond Hettinger - Super considered super! - PyCon 2015](https://www.youtube.com/watch?v=EiOglTERPEo) _[Python]_
+* [Publishing (Perfect) Python Packages on PyPi](https://www.youtube.com/watch?v=GIF3LaRqgXo) _[Python]_
 * [Short Go course](https://www.youtube.com/watch?v=SqrbIlUwR0U&t=1s) _[Go]_
 * [Go tooling in action - useful go tools](https://www.youtube.com/watch?v=uBjoTxosSys) _[Go]_
 * [Dan Abramov teaches React Hooks](https://www.reddit.com/r/javascript/comments/b8etnx/dan_abramov_teaches_me_react_hooks/) _[Javascript]_
@@ -84,16 +97,22 @@
 * [17-part video series on learning regex in Python](https://www.reddit.com/r/Python/comments/aw18cc/i_just_published_a_17part_video_series_on/) _[Python]_
 * [Text Mining on the 2019 Mexican Government Report](https://github.com/PhantomInsights/mexican-government-report) _[Python]_
 * [Build your own async framework](https://github.com/hzlmn/diy-async-web-framework) _[Python]_
+* [Developing with asyncio](https://docs.python.org/3/library/asyncio-dev.html) _[Python]_
 * [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world) _[Go]_
 * [Bunch of useful learning articles gethered by Senior Go devs](https://barbra.io/collection/36cc5e8a-c094-47da-b8f7-8e01a2dc12aa?section-id=338cd5b3-4989-4471-8feb-389ca537770e) _[Go]_
 * [Go pointers in 800 lines](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back) _[Go]_
 * [Build simple Microservice in Go](https://ewanvalentine.io/microservices-in-golang-part-1/) _[Go]_
 * [Publishing Go modules](https://blog.golang.org/publishing-go-modules) _[Go]_
+* [Concurrency In Go](https://www.opinionator.io/posts/concurrency_in_go/) _[Go]_
+* [Make, New and Literals Cheat Sheet – Slice and Map Initialization in Go](https://qvault.io/2020/06/29/make-new-and-literals-cheat-sheet-slice-and-map-initialization-in-go/)
 * [NodeJs crush course](https://www.reddit.com/r/webdev/comments/apiqdg/a_nodejs_crash_course_in_90_minutes/) _[Javascript]_
 * [Introduction to CSS Grid](https://dev.to/karaluton/introduction-to-css-grid-what-you-should-know-52np) _[CSS]_
 * [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc) _[Security]_
 * [How to reduce AWS cost](https://gameanalytics.com/blog/reduce-costs-https-api-aws.html) _[Cloud]_
+* [Step by step guide to modern secure CI setup](https://devforth.io/blog/step-by-step-guide-to-modern-secure-ci-setup) _[Cloud]_
+* [3 steps to add tests on existing code when you have short deadlines](https://understandlegacycode.com/blog/3-steps-to-add-tests-on-existing-code-when-you-have-short-deadlines/) _[All]_
 
 ### Cheatsheets:
 * [Comprehensive Python Cheatsheet by Jure Šorn](https://gto76.github.io/python-cheatsheet/) _[Python]_
+* [Google programming styles guides](https://google.github.io/styleguide/) _[All]_
 
