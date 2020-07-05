@@ -104,6 +104,7 @@
 * [Build simple Microservice in Go](https://ewanvalentine.io/microservices-in-golang-part-1/) _[Go]_
 * [Publishing Go modules](https://blog.golang.org/publishing-go-modules) _[Go]_
 * [Concurrency In Go](https://www.opinionator.io/posts/concurrency_in_go/) _[Go]_
+* [Make, New and Literals Cheat Sheet – Slice and Map Initialization in Go](https://qvault.io/2020/06/29/make-new-and-literals-cheat-sheet-slice-and-map-initialization-in-go/)
 * [NodeJs crush course](https://www.reddit.com/r/webdev/comments/apiqdg/a_nodejs_crash_course_in_90_minutes/) _[Javascript]_
 * [Introduction to CSS Grid](https://dev.to/karaluton/introduction-to-css-grid-what-you-should-know-52np) _[CSS]_
 * [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc) _[Security]_
